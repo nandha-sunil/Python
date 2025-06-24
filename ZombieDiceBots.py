@@ -1,4 +1,4 @@
-name=input("SREE NANDHA A.S: ")
+name=input("SREENANDHA A.S: ")
 USN=input("1AY24BT052: ")
 import random
 dice = ['brain', 'footsteps', 'shotgun']
