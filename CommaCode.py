@@ -1,4 +1,4 @@
-name=input("SREENANDHA.A.S: ")
+name=input("SREENANDHA A.S: ")
 USN=input("1AY24BT052: ")
 def comma_code(items):
     if len(items) == 0:
@@ -10,4 +10,3 @@ def comma_code(items):
 my_list = ["apples", "bananas", "tofu", "cats"]
 result = comma_code(my_list)
 print(result)
-apples, bananas, tofu, and cats
