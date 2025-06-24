@@ -1,4 +1,4 @@
-name=input("Sreenandha.A.S: ")
+name=input("SREENANDHA A.S: ")
 USN=input("1AY24BT052: ")
 def print_zigzag(string):
     row1 = ""
